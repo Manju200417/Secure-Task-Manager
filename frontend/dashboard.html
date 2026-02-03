@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h2 id="user-info">My Tasks</h2>
+
+        <!-- CREATE TASK -->
+        <form id="taskForm">
+            <input type="text" id="task-title" placeholder="Task title" required>
+            <input type="text" id="task-description" placeholder="Task description">
+            <button type="submit">Add Task</button>
+        </form>
+
+        <p id="task-message"></p>
+
+        <!-- TASK LIST (IMPORTANT FIX) -->
+        <div id="tasks-list"></div>
+
+        <!-- ADMIN SECTION -->
+        <div id="admin-section" style="display:none;">
+            <h3>All Users (Admin)</h3>
+            <div id="users-list"></div>
+        </div>
+
+        <button onclick="logout()">Logout</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

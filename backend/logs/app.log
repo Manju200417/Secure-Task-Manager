@@ -1,0 +1,105 @@
+2026-02-02 16:08:47,005 - __main__ - INFO - Starting Flask application...
+2026-02-02 16:08:47,015 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-02 16:08:47,015 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-02-02 16:08:47,018 - werkzeug - INFO -  * Restarting with stat
+2026-02-02 16:08:47,173 - __main__ - INFO - Starting Flask application...
+2026-02-02 16:08:47,179 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 16:08:47,194 - werkzeug - INFO -  * Debugger PIN: 133-319-934
+2026-02-02 16:11:40,370 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 16:11:40] "OPTIONS /api/v1/register HTTP/1.1" 200 -
+2026-02-02 16:11:40,761 - models.user - INFO - New user registered: manjuguru814@gmail.com
+2026-02-02 16:11:40,762 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 16:11:40] "[35m[1mPOST /api/v1/register HTTP/1.1[0m" 201 -
+2026-02-02 18:27:17,556 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:27:17] "OPTIONS /api/v1/register HTTP/1.1" 200 -
+2026-02-02 18:27:17,955 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:27:17] "[35m[1mPOST /api/v1/register HTTP/1.1[0m" 500 -
+2026-02-02 18:27:47,508 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:27:47] "OPTIONS /api/v1/register HTTP/1.1" 200 -
+2026-02-02 18:27:47,902 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:27:47] "[35m[1mPOST /api/v1/register HTTP/1.1[0m" 500 -
+2026-02-02 18:28:20,706 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:28:20] "OPTIONS /api/v1/register HTTP/1.1" 200 -
+2026-02-02 18:28:21,096 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:28:21] "[35m[1mPOST /api/v1/register HTTP/1.1[0m" 500 -
+2026-02-02 18:28:32,476 - __main__ - INFO - Starting Flask application...
+2026-02-02 18:28:32,486 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-02 18:28:32,486 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-02-02 18:28:32,489 - werkzeug - INFO -  * Restarting with stat
+2026-02-02 18:28:32,638 - __main__ - INFO - Starting Flask application...
+2026-02-02 18:28:32,643 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 18:28:32,659 - werkzeug - INFO -  * Debugger PIN: 133-319-934
+2026-02-02 18:28:41,510 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:28:41] "OPTIONS /api/v1/register HTTP/1.1" 200 -
+2026-02-02 18:28:41,907 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:28:41] "[35m[1mPOST /api/v1/register HTTP/1.1[0m" 500 -
+2026-02-02 18:28:43,745 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:28:43] "[35m[1mPOST /api/v1/register HTTP/1.1[0m" 500 -
+2026-02-02 18:28:44,429 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:28:44] "[35m[1mPOST /api/v1/register HTTP/1.1[0m" 500 -
+2026-02-02 18:29:09,698 - __main__ - INFO - Starting Flask application...
+2026-02-02 18:29:09,707 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-02 18:29:09,707 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-02-02 18:29:09,709 - werkzeug - INFO -  * Restarting with stat
+2026-02-02 18:29:09,859 - __main__ - INFO - Starting Flask application...
+2026-02-02 18:29:09,864 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 18:29:09,877 - werkzeug - INFO -  * Debugger PIN: 133-319-934
+2026-02-02 18:29:17,693 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:29:17] "OPTIONS /api/v1/register HTTP/1.1" 200 -
+2026-02-02 18:29:18,084 - models.user - INFO - New user registered: manjuguru814@gmail.com
+2026-02-02 18:29:18,085 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:29:18] "[35m[1mPOST /api/v1/register HTTP/1.1[0m" 201 -
+2026-02-02 18:29:25,472 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:29:25] "OPTIONS /api/v1/login HTTP/1.1" 200 -
+2026-02-02 18:29:25,864 - routes.auth - INFO - User logged in: manjuguru814@gmail.com
+2026-02-02 18:29:25,865 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:29:25] "POST /api/v1/login HTTP/1.1" 200 -
+2026-02-02 18:29:34,888 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:29:34] "OPTIONS /api/v1/login HTTP/1.1" 200 -
+2026-02-02 18:29:35,276 - routes.auth - INFO - User logged in: manjuguru814@gmail.com
+2026-02-02 18:29:35,276 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:29:35] "POST /api/v1/login HTTP/1.1" 200 -
+2026-02-02 18:29:54,023 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:29:54] "OPTIONS /api/v1/login HTTP/1.1" 200 -
+2026-02-02 18:29:54,413 - routes.auth - WARNING - Failed login attempt - wrong password: manjuguru814@gmail.com
+2026-02-02 18:29:54,414 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:29:54] "[31m[1mPOST /api/v1/login HTTP/1.1[0m" 401 -
+2026-02-02 18:29:59,123 - routes.auth - INFO - User logged in: manjuguru814@gmail.com
+2026-02-02 18:29:59,124 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:29:59] "POST /api/v1/login HTTP/1.1" 200 -
+2026-02-02 18:30:39,613 - werkzeug - INFO -  * Detected change in '/Users/manjunathalagawadi/Desktop/assinment for backend dev/intern-project/backend/database.py', reloading
+2026-02-02 18:30:39,645 - werkzeug - INFO -  * Restarting with stat
+2026-02-02 18:30:39,805 - __main__ - INFO - Starting Flask application...
+2026-02-02 18:30:39,810 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 18:30:39,824 - werkzeug - INFO -  * Debugger PIN: 133-319-934
+2026-02-02 18:33:44,016 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:33:44] "OPTIONS /api/v1/login HTTP/1.1" 200 -
+2026-02-02 18:33:44,406 - routes.auth - INFO - User logged in: manjuguru814@gmail.com
+2026-02-02 18:33:44,406 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:33:44] "POST /api/v1/login HTTP/1.1" 200 -
+2026-02-02 18:34:39,930 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:34:39] "OPTIONS /api/v1/login HTTP/1.1" 200 -
+2026-02-02 18:34:40,320 - routes.auth - INFO - User logged in: manjuguru814@gmail.com
+2026-02-02 18:34:40,320 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:34:40] "POST /api/v1/login HTTP/1.1" 200 -
+2026-02-02 18:34:55,780 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:34:55] "OPTIONS /api/v1/login HTTP/1.1" 200 -
+2026-02-02 18:34:56,169 - routes.auth - WARNING - Failed login attempt - wrong password: manjuguru814@gmail.com
+2026-02-02 18:34:56,169 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:34:56] "[31m[1mPOST /api/v1/login HTTP/1.1[0m" 401 -
+2026-02-02 18:34:59,019 - routes.auth - INFO - User logged in: manjuguru814@gmail.com
+2026-02-02 18:34:59,020 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:34:59] "POST /api/v1/login HTTP/1.1" 200 -
+2026-02-02 18:39:02,045 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:02] "OPTIONS /api/v1/tasks HTTP/1.1" 200 -
+2026-02-02 18:39:02,047 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:02] "GET /api/v1/tasks HTTP/1.1" 200 -
+2026-02-02 18:39:02,718 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:02] "GET /api/v1/tasks HTTP/1.1" 200 -
+2026-02-02 18:39:02,969 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:02] "GET /api/v1/tasks HTTP/1.1" 200 -
+2026-02-02 18:39:05,923 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:05] "OPTIONS /api/v1/tasks HTTP/1.1" 200 -
+2026-02-02 18:39:05,928 - models.task - INFO - Task created by user 1: mm
+2026-02-02 18:39:05,929 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:05] "[35m[1mPOST /api/v1/tasks HTTP/1.1[0m" 201 -
+2026-02-02 18:39:05,934 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:05] "GET /api/v1/tasks HTTP/1.1" 200 -
+2026-02-02 18:39:10,982 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:10] "OPTIONS /api/v1/tasks HTTP/1.1" 200 -
+2026-02-02 18:39:10,988 - models.task - INFO - Task created by user 1: mm
+2026-02-02 18:39:10,988 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:10] "[35m[1mPOST /api/v1/tasks HTTP/1.1[0m" 201 -
+2026-02-02 18:39:10,996 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:10] "GET /api/v1/tasks HTTP/1.1" 200 -
+2026-02-02 18:39:19,114 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:19] "OPTIONS /api/v1/tasks HTTP/1.1" 200 -
+2026-02-02 18:39:19,120 - models.task - INFO - Task created by user 1: Manju
+2026-02-02 18:39:19,121 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:19] "[35m[1mPOST /api/v1/tasks HTTP/1.1[0m" 201 -
+2026-02-02 18:39:19,131 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:19] "GET /api/v1/tasks HTTP/1.1" 200 -
+2026-02-02 18:39:22,600 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:22] "OPTIONS /api/v1/tasks/1 HTTP/1.1" 200 -
+2026-02-02 18:39:22,608 - models.task - INFO - Task 1 deleted
+2026-02-02 18:39:22,609 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:22] "DELETE /api/v1/tasks/1 HTTP/1.1" 200 -
+2026-02-02 18:39:24,484 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:24] "OPTIONS /api/v1/tasks HTTP/1.1" 200 -
+2026-02-02 18:39:24,489 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:24] "GET /api/v1/tasks HTTP/1.1" 200 -
+2026-02-02 18:39:28,204 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:28] "GET /api/v1/tasks HTTP/1.1" 200 -
+2026-02-02 18:39:50,732 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:50] "OPTIONS /api/v1/register HTTP/1.1" 200 -
+2026-02-02 18:39:51,121 - models.user - INFO - New user registered: gurumanju841@gmail.com
+2026-02-02 18:39:51,121 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:39:51] "[35m[1mPOST /api/v1/register HTTP/1.1[0m" 201 -
+2026-02-02 18:40:12,650 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:40:12] "OPTIONS /api/v1/register HTTP/1.1" 200 -
+2026-02-02 18:40:13,041 - models.user - INFO - New user registered: test2004@gmail.com
+2026-02-02 18:40:13,042 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:40:13] "[35m[1mPOST /api/v1/register HTTP/1.1[0m" 201 -
+2026-02-02 18:40:23,500 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:40:23] "OPTIONS /api/v1/login HTTP/1.1" 200 -
+2026-02-02 18:40:23,889 - routes.auth - WARNING - Failed login attempt - wrong password: test2004@gmail.com
+2026-02-02 18:40:23,890 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:40:23] "[31m[1mPOST /api/v1/login HTTP/1.1[0m" 401 -
+2026-02-02 18:40:29,916 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:40:29] "OPTIONS /api/v1/login HTTP/1.1" 200 -
+2026-02-02 18:40:30,306 - routes.auth - INFO - User logged in: test2004@gmail.com
+2026-02-02 18:40:30,307 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:40:30] "POST /api/v1/login HTTP/1.1" 200 -
+2026-02-02 18:40:30,340 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:40:30] "OPTIONS /api/v1/users HTTP/1.1" 200 -
+2026-02-02 18:40:30,340 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:40:30] "OPTIONS /api/v1/tasks HTTP/1.1" 200 -
+2026-02-02 18:40:30,343 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:40:30] "GET /api/v1/users HTTP/1.1" 200 -
+2026-02-02 18:40:30,343 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 18:40:30] "GET /api/v1/tasks HTTP/1.1" 200 -
